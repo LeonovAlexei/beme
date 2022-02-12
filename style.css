@@ -55,8 +55,8 @@ p{
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  align-items: flex-start;
   align-content: center;
-  align-items: baseline;
   justify-content: center;
   gap: 12px;
 }
@@ -67,5 +67,5 @@ padding-bottom: 45px;
   padding-bottom: 45px;
 }
 .step2__text{
-  width: 600px;
+  width: 650px;
 }
